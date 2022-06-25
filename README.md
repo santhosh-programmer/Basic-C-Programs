@@ -40,4 +40,4 @@ If you are a novice in C, feel free to check out my code and learn.<br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-2.c">Variable length argument-2</a>
 
 ![Alt Text](https://1.bp.blogspot.com/-UOu5GaPTI-Y/XApkqZKZhfI/AAAAAAAAA2c/yWFr8sn9ubU4UcvfdN4z7GC51536oYKKwCLcBGAs/s1600/videotogif_2018.12.07_16.56.36.gif)
-<a href="https://1.bp.blogspot.com/-UOu5GaPTI-Y/XApkqZKZhfI/AAAAAAAAA2c/yWFr8sn9ubU4UcvfdN4z7GC51536oYKKwCLcBGAs/s1600/videotogif_2018.12.07_16.56.36.gif">
+<img src="https://1.bp.blogspot.com/-UOu5GaPTI-Y/XApkqZKZhfI/AAAAAAAAA2c/yWFr8sn9ubU4UcvfdN4z7GC51536oYKKwCLcBGAs/s1600/videotogif_2018.12.07_16.56.36.gif">
