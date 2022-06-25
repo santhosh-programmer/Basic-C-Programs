@@ -19,4 +19,4 @@ If you are a novice in C, feel free to check out my code and learn.<br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/structure_member_inside_another_structure.c">Structure member inside another structre</a><br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/sum_of_'n'_numbers.c">Sum of 'n' numbers</a><br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-1.c">Variable length argument-1</a><br>
-🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-2.c">Variable length argument-1</a><br>
+🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-2.c">Variable length argument-2</a><br>
