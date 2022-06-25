@@ -10,7 +10,7 @@ If you are a novice in C, feel free to check out my code and learn.<br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/decimal_and_integer_part_of_a_number.c">Decimal and integer part of a number</a>
 
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/decimal_to_binary.c">Decimal to binary</a>
-
+<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--MF5Cp2yD--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/nyj855ggghu7rcc6ib7c.gif" align="right">
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/factorial_of_a_number.c">Factorial of a number</a>
 
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/factors_of_a_number.c">Factors of a number</a>
