@@ -38,4 +38,6 @@ If you are a novice in C, feel free to check out my code and learn.<br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-1.c">Variable length argument-1</a>
 
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-2.c">Variable length argument-2</a>
-<img align="right" src="https://1.bp.blogspot.com/-UOu5GaPTI-Y/XApkqZKZhfI/AAAAAAAAA2c/yWFr8sn9ubU4UcvfdN4z7GC51536oYKKwCLcBGAs/s1600/videotogif_2018.12.07_16.56.36.gif">
+<p align="right">
+  <img src="https://1.bp.blogspot.com/-UOu5GaPTI-Y/XApkqZKZhfI/AAAAAAAAA2c/yWFr8sn9ubU4UcvfdN4z7GC51536oYKKwCLcBGAs/s1600/videotogif_2018.12.07_16.56.36.gif">
+ </p>
