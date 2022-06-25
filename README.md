@@ -1,7 +1,7 @@
 # Basic-C-Programs
 This repository contains some of the basic code in C language.<br>
 If you are a novice in C, feel free to check out my code and learn.<br>
-**HAPPY CODING**
+**HAPPY CODING😊**<br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/armstrong_number.c">Amstrong number</a><br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/combinations_of_a_string.c">Combinations of a string</a><br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/decimal_and_integer_part_of_a_number.c">Decimal and integer part of a number</a><br>
