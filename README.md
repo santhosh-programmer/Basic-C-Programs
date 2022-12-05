@@ -38,3 +38,5 @@ If you are a novice in C, feel free to check out my code and learn.<br>
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-1.c">Variable length argument-1</a>
 
 🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/variable_length_argument_example-2.c">Variable length argument-2</a>
+
+🎯<a href="https://github.com/santhosh-p-official/Basic-C-Programs/blob/main/permutations_of_an_array.c">Permutations of an array</a>
